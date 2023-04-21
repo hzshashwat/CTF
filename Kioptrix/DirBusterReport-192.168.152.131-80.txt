@@ -1,0 +1,60 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Tue Mar 14 14:06:47 EDT 2023
+--------------------------------
+
+http://192.168.152.131:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 200 response:
+
+/
+/icons/
+/manual/
+/manual/mod/
+/usage/
+/icons/small/
+/manual/mod/mod_ssl/
+/manual/mod/mod_perl/
+/mrtg/
+
+Dirs found with a 403 response:
+
+/cgi-bin/
+/doc/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 200 responce:
+
+/test.php
+/usage/usage_200909.html
+/usage/usage_202302.html
+/manual/mod/mod_ssl/ssl_overview.html
+/manual/mod/mod_ssl/index.html
+/manual/mod/mod_ssl/ssl_howto.html
+/manual/mod/mod_ssl/ssl_intro.html
+/manual/mod/mod_ssl/ssl_faq.html
+/manual/mod/mod_ssl/ssl_reference.html
+/manual/mod/mod_ssl/ssl_compat.html
+/manual/mod/mod_ssl/ssl_glossary.html
+/mrtg/mrtg.html
+/mrtg/unix-guide.html
+/mrtg/nt-guide.html
+/mrtg/cfgmaker.html
+/mrtg/indexmaker.html
+/mrtg/faq.html
+/mrtg/forum.html
+/mrtg/reference.html
+/mrtg/contrib.html
+/mrtg/mrtg-rrd.html
+/mrtg/logfile.html
+/mrtg/mibhelp.html
+/mrtg/squid.html
+/mrtg/webserver.html
+
+
+--------------------------------

@@ -1,0 +1,18 @@
+200      GET      107l      370w     3833c http://192.168.152.142/
+301      GET        9l       28w      316c http://192.168.152.142/app => http://192.168.152.142/app/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/app (Apache)
+301      GET        9l       28w      319c http://192.168.152.142/public => http://192.168.152.142/public/
+301      GET        9l       28w      316c http://192.168.152.142/src => http://192.168.152.142/src/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/src (Apache)
+301      GET        9l       28w      323c http://192.168.152.142/extensions => http://192.168.152.142/extensions/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/extensions (Apache)
+301      GET        9l       28w      319c http://192.168.152.142/vendor => http://192.168.152.142/vendor/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/vendor (Apache)
+403      GET        9l       28w      280c http://192.168.152.142/server-status
+301      GET        9l       28w      325c http://192.168.152.142/public/files => http://192.168.152.142/public/files/
+301      GET        9l       28w      326c http://192.168.152.142/public/thumbs => http://192.168.152.142/public/thumbs/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/public/thumbs (Apache)
+301      GET        9l       28w      325c http://192.168.152.142/public/theme => http://192.168.152.142/public/theme/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/public/theme (Apache)
+301      GET        9l       28w      330c http://192.168.152.142/public/extensions => http://192.168.152.142/public/extensions/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142/public/extensions (Apache)

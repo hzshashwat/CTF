@@ -1,0 +1,13 @@
+301      GET        9l       28w      323c http://192.168.152.142:8080/dev => http://192.168.152.142:8080/dev/
+200      GET     1159l     5822w    94493c http://192.168.152.142:8080/
+403      GET        9l       28w      282c http://192.168.152.142:8080/server-status
+301      GET        9l       28w      329c http://192.168.152.142:8080/dev/files => http://192.168.152.142:8080/dev/files/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142:8080/dev/files (Apache)
+301      GET        9l       28w      330c http://192.168.152.142:8080/dev/config => http://192.168.152.142:8080/dev/config/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142:8080/dev/config (Apache)
+301      GET        9l       28w      329c http://192.168.152.142:8080/dev/pages => http://192.168.152.142:8080/dev/pages/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142:8080/dev/pages (Apache)
+301      GET        9l       28w      329c http://192.168.152.142:8080/dev/forms => http://192.168.152.142:8080/dev/forms/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142:8080/dev/forms (Apache)
+301      GET        9l       28w      330c http://192.168.152.142:8080/dev/stamps => http://192.168.152.142:8080/dev/stamps/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://192.168.152.142:8080/dev/stamps (Apache)

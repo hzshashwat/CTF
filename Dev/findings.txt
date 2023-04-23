@@ -1,0 +1,6 @@
+driver: sqlite
+    databasename: bolt
+    username: bolt
+    password: I_love_java
+
+
